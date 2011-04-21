@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.1.5 on 2011-04-21 at 11:38 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.1.5 on 2011-04-21 at 11:49 (GMT+02:00)-->
 <keyboard group="126" id="0" name="U.S. AltHun" maxout="3">
     <layouts>
         <layout first="0" last="17" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -467,7 +467,7 @@
             <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" action="grave"/>
+            <key code="50" output="í"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -597,7 +597,7 @@
             <!-- added -->
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="̀"/>
+            <key code="50" output="Í"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
