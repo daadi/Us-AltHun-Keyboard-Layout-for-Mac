@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.1.5 on 2011-04-21 at 11:10 (GMT+02:00)-->
-<keyboard group="126" id="0" name="US AltHun" maxout="3">
+<!--Last edited by Ukelele version 2.1.5 on 2011-04-21 at 11:38 (GMT+02:00)-->
+<keyboard group="126" id="0" name="U.S. AltHun" maxout="3">
     <layouts>
         <layout first="0" last="17" modifiers="commonModifiers" mapSet="ANSI"/>
         <layout first="18" last="18" modifiers="commonModifiers" mapSet="JIS"/>
@@ -444,9 +444,9 @@
             <key code="24" output="ó"/>
             <key code="25" output="ª"/>
             <key code="26" output="¶"/>
-            <key code="27" output="ö"/>
+            <key code="27" output="ü"/>
             <key code="28" output="•"/>
-            <key code="29" output="º"/>
+            <key code="29" output="ö"/>
             <key code="30" action="‘"/>
             <key code="31" action="ø"/>
             <key code="32" action="diaeresis"/>
@@ -570,9 +570,9 @@
             <key code="24" output="Ó"/>
             <key code="25" output="·"/>
             <key code="26" output="‡"/>
-            <key code="27" output="Ö"/>
+            <key code="27" output="Ü"/>
             <key code="28" output="°"/>
-            <key code="29" output="‚"/>
+            <key code="29" output="Ö"/>
             <key code="30" action="’"/>
             <key code="31" action="Ø"/>
             <key code="32" output="̈"/>

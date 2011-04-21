@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.keyboardlayout.us althun</string>
+	<string>com.apple.keyboardlayout.us-althun</string>
 	<key>CFBundleName</key>
-	<string>US AltHun</string>
+	<string>U.S. AltHun</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 </dict>
